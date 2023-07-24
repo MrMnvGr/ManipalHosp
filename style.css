@@ -110,13 +110,12 @@
     /**hero section **/
     .hero-section{
         background-image: url("mh1.jpg");
-        background-size: cover;
+        background-size:cover;
         height: 450px;
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        object-fit: cover;
-        overflow: hidden;  
+         
     }
 
     .section1{
